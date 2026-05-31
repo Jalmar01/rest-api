@@ -2,7 +2,7 @@
 
 Una API RESTful limpia y eficiente desarrollada con **Node.js** y **Express** para la gestión, creación y filtrado de registros de películas. Este proyecto fue diseñado siguiendo las mejores prácticas de arquitectura backend, separación de conceptos y validación estricta de datos.
 
-🚀 **Despliegue en vivo:** [Ver API en Render](https://tu-proyecto.onrender.com)
+🚀 **Despliegue en vivo:** [Ver API en Render](https://rest-api-vx7u.onrender.com/)
 
 ---
 
@@ -71,8 +71,8 @@ Si deseas clonar este repositorio y ejecutarlo en tu computadora, asegúrate de 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-   cd nombre-del-proyecto
+   git clone https://github.com/Jalmar01/rest-api
+   cd rest-api
 
 2. Instalar las dependencias:
     npm install
