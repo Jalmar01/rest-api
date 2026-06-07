@@ -82,12 +82,13 @@ Si deseas clonar este repositorio y ejecutarlo en tu computadora, asegúrate de 
 
 📁 Estructura del Proyecto
 
-├── app.js               # Archivo principal y punto de entrada de la aplicación
-├── schemas/             # Esquemas de validación de datos (Zod)
-├── package.json         # Configuración del proyecto y dependencias
-├── .gitignore           # Archivos y carpetas excluidos en Git (node_modules)
-└── README.md            # Documentación del proyecto
-
+movies-backend/
+└── rest-api/               <-- Tienes todo metido aquí
+    ├── node_modules/
+    ├── database.sql        <-- Tu script de MySQL
+    ├── index.js
+    ├── package.json
+    └── README.md           <-- Tu portada de GitHub
 👨‍💻 Autor
 
     Villarreal Jalmar - GitHub
